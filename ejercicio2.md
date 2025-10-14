@@ -21,5 +21,5 @@ Este es el ***ejemplo*** de *texto* escrito en **código**
 ![Imagen](Imagenes/Imagen1.png/ "Enlace a una imagen del repositorio")
 
 |Lunes|Martes|Miécoles|Jueves|Viernes|
+|:---|---|---|---|---:|
 |Lengua|Mates|Lengua|IAW|Inglés|
-|4H|3H|2H|2H|1H|
