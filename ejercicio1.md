@@ -1,7 +1,7 @@
 # Documentación Ejercicio 14
 
 ## Paso 1
-![Captura1](/Prueba2_Gabriel/Imagenes/Imagen1.png)
+![Captura1](Imagenes/Imagen1.png)
 
 Creamos el repositorio dentro de la carpeta de Repositorios y lo inicializamos con git init y aprovecharemos a conectar el repositorio local al remoto con el primer comando indicado en la captura, dentro del repositorio creamos dos archivos de texto. Siempre hay que acordarse de confirmar los cambios con el proceso de siempre, git add ., git commit -m "Texto" y git push para subir los cambios al repositorio en Github. (Todo esto desde el Git Bash de la maquina local)
 
