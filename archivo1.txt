@@ -1,2 +1,3 @@
 Este es el archivo1
 He modificado el archivo1
+He modificado este archivo para producir un conflicto
