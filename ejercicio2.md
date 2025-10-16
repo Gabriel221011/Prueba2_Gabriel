@@ -4,9 +4,7 @@
 
 Este es el ***ejemplo*** de *texto* escrito en **código**
 
-`import java.util.Scanner;
-
-public class HolaMundo {
+```public class HolaMundo {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
@@ -17,7 +15,7 @@ public class HolaMundo {
 
         entrada.close();
     }
-}`
+}```
 
 1. Primer elemento de la lista
 2. Segundo elemento de la lista 
