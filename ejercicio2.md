@@ -4,7 +4,20 @@
 
 Este es el ***ejemplo*** de *texto* escrito en **código**
 
-`Este texto aparecerá como un codigo`
+`import java.util.Scanner;
+
+public class HolaMundo {
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+
+        System.out.print("¿Cómo te llamas? ");
+        String nombre = entrada.nextLine();
+
+        System.out.println("¡Hola, " + nombre + "! Bienvenido a Java.");
+
+        entrada.close();
+    }
+}`
 
 1. Primer elemento de la lista
 2. Segundo elemento de la lista 
@@ -18,7 +31,7 @@ Este es el ***ejemplo*** de *texto* escrito en **código**
 
 [URL_Markdown](ejercicio1.md/ "Enlace a un fichero Markdown de el repositorio")
 
-![Imagen](Imagenes/Imagen1.png/ "Enlace a una imagen del repositorio")
+![Imagen](Imagenes1/Imagen1.png/ "Enlace a una imagen del repositorio")
 
 |Lunes|Martes|Miécoles|Jueves|Viernes|
 |:---|---|---|---|---:|
